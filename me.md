@@ -1,6 +1,8 @@
+---
 layout: page
-title: "me"
+title: Me
 permalink: /me/
+---
 
 My name is Matt and I am currently testing a webpage layout for a friend.
 
