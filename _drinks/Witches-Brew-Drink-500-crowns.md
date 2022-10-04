@@ -10,3 +10,6 @@ image_path: images/drinks/witchesbrew.jpeg
 For the garnish: 1 small dry ice cube**, cocktail cherry
 
 can add 1/2 inch to 1 inch dry ice cube to make it bubble and boil.
+
+
+It’s often bright green, blue, or purple in color, and it can be served as a punch or shaken as a cocktail. This spin on the Witches Brew uses bright green melon liqueur and lemon juice to make a classic-style cocktail with a deliciously sweet tart flavor.
