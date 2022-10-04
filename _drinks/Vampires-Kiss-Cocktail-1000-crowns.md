@@ -1,7 +1,7 @@
 ---
 layout: drink
 title: Vampire's Kiss Cocktail
-image_path: images/drinks/vampireskiss.jpeg
+image_path: https://www.acouplecooks.com/wp-content/uploads/2021/08/Witchs-Brew-Cocktail-001s-368x368.jpg
 ---
 
 1 ½ ounces vodka
