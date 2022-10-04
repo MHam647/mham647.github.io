@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Witches Brew Drink
 headline: Bubble and boil
-#picture: /images/drinks/witchesbrew.jpg
+image_path: images/drinks/witchesbrew.jpeg
 ---
 
 1 ½ ounces* Midori
