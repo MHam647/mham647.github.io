@@ -1,6 +1,6 @@
 ---
+layout: drink
 title: Witches Brew Drink
-headline: Bubble and boil
 image_path: images/drinks/witchesbrew.jpeg
 ---
 
