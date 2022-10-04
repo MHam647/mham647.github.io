@@ -5,7 +5,6 @@ title: Drinks
 
 {% for collection in site.drinks %}
 <div class="drink">
-    <h2><img src="{{ drink.image_path }}" alt="{{ drink.title }}" />{{ drink.title }}</h2>
-    {{ drink.content }}
+    <h2><a href="{{ drink.url }}">{{ drink.title }}</a></h2>
 </div>
 {% endfor %}
