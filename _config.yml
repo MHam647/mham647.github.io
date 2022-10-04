@@ -28,7 +28,7 @@ github_username:  mham647
 collections:
   drinks:
     output: true
-    permalink: /drinks/:name
+    permalink: /drinks/:path/
 
 # Build settings
 theme: minima
