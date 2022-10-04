@@ -1,7 +1,7 @@
 ---
 layout: drink
 title: Witches Brew Drink
-image_path: images/drinks/witchesbrew.jpeg
+image_path: https://www.acouplecooks.com/wp-content/uploads/2021/08/Witchs-Brew-Cocktail-001s-368x368.jpg
 ---
 
 1 ½ ounces* Midori
