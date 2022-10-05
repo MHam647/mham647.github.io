@@ -1,6 +1,6 @@
 ---
 layout: drink
-title: Halloween Punch
+title: Halloween Punch - 10,000 crowns
 image_path: https://www.acouplecooks.com/wp-content/uploads/2021/08/Halloween-Punch-005s-368x368.jpg
 ---
 
