@@ -4,6 +4,7 @@ title: Witches Brew Drink - 100,000 crowns
 image_path: https://www.acouplecooks.com/wp-content/uploads/2021/08/Witchs-Brew-Cocktail-001s-368x368.jpg
 ---
 
+Ingredients  
 1 ½ ounces* Midori  
 1 ½ ounces Cointreau or Triple Sec  
 1 ounce fresh lemon juice  

@@ -1,9 +1,10 @@
 ---
 layout: drink
-title: Halloween Punch - 10,000 crowns
+title: Halloween Punch - 100,000 crowns
 image_path: https://www.acouplecooks.com/wp-content/uploads/2021/08/Halloween-Punch-005s-368x368.jpg
 ---
 
+Ingredients  
 64 ounces cranberry 100% juice blend (with grape, apple, and pear)*  
 64 ounces apple juice or apple cider  
 2 liters ginger ale (or 1 liter ginger ale and 1 750 ml bottle aged rum**)  

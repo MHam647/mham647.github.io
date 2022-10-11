@@ -4,6 +4,7 @@ title: Vampire's Kiss Cocktail - 150,000 crowns
 image_path: https://www.acouplecooks.com/wp-content/uploads/2021/08/Vampires-Kiss-Cocktail-005s-368x368.jpg
 ---
 
+Ingredients  
 1 ½ ounces vodka  
 1 ounce* Chambord  
 ½ ounce 100% unsweetened cranberry juice (not sweetened or cranberry juice cocktail)  
