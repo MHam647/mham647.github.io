@@ -1,6 +1,6 @@
 ---
 layout: drink
-title: The Zombie Cocktail 200000 crowns
+title: The Zombie Cocktail 200,000 crowns
 image_path: https://www.acouplecooks.com/wp-content/uploads/2020/11/Zombie-Cocktail-005-368x368.jpg
 ---
 
