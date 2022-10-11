@@ -1,6 +1,6 @@
 ---
 layout: drink
-title: Pumpkin Martini - 150,000 crowns
+title: Classic Dark and Stormy 150000 crowns
 image_path: https://www.acouplecooks.com/wp-content/uploads/2020/08/Dark-and-Stormy-004-368x368.jpg
 ---
 
