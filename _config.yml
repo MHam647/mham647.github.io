@@ -31,7 +31,7 @@ collections:
 #    permalink: /drinks/:path/
 
 # Build settings
-theme: pages-themes/midnight@v0.2.0
+theme: pages-themes/midnight
 plugins:
   - jekyll-remote-theme
 
