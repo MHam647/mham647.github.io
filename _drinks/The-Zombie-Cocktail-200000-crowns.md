@@ -1,7 +1,7 @@
 ---
 layout: drink
-title: Corpse Reviver Cocktail - 200,000 crowns
-image_path: https://www.acouplecooks.com/wp-content/uploads/2020/08/Corpse-Reviver-No-2-001-368x368.jpg
+title: The Zombie Cocktail 200000 crowns
+image_path: https://www.acouplecooks.com/wp-content/uploads/2020/11/Zombie-Cocktail-005-368x368.jpg
 ---
 
 Ingredients  
